@@ -1,7 +1,7 @@
 # personal_expense_app
 
 A new Flutter project.
-
+![alt text](https://github.com/buiminhhai1/personal__expense_app/blob/master/demo.png?raw=true)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
